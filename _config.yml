@@ -12,15 +12,15 @@
 
 theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "IT Tech Log"
+locale                   : "ko-KR"
+title                    : "IT Technology Log"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Steve In"
-description              : "An amazing website."
+description              : "Website for IT Technology Log."
 url                      : "https://ittechlog.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ittechlog/ittechlog.github.io"
@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Steve In"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  location         : "Republic of Korea"
+  email            : "insungho@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
